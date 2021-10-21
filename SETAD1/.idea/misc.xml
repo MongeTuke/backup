@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Rosely/Desktop/Nova pasta/SETAD_3030s_Projete2021/SETAD1/app/src/main/res/layout/activity_menu_de_trabalho.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Rosely/Desktop/Nova pasta/SETAD_3030s_Projete2021/SETAD1/app/src/main/res/layout/drag.xml" value="0.12771739130434784" />
+        <entry key="..\:/Users/Rosely/Desktop/Nova pasta/SETAD_3030s_Projete2021/SETAD1/app/src/main/res/layout/main_nav_drawer.xml" value="0.33" />
+        <entry key="..\:/Users/Rosely/Desktop/Nova pasta/SETAD_3030s_Projete2021/SETAD1/app/src/main/res/layout/menu_de_trabalho_toolbar.xml" value="0.1" />
+        <entry key="..\:/Users/Rosely/Desktop/Projete/SETAD_3030s_Projete2021/SETAD1/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2203125" />
+        <entry key="..\:/Users/Rosely/Desktop/Projete/SETAD_3030s_Projete2021/SETAD1/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/Rosely/Desktop/Projete/SETAD_3030s_Projete2021/SETAD1/app/src/main/res/drawable/ic_menu_camera.xml" value="0.1" />
+        <entry key="..\:/Users/Rosely/Desktop/Projete/SETAD_3030s_Projete2021/SETAD1/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.1" />
+        <entry key="..\:/Users/Rosely/Desktop/Projete/SETAD_3030s_Projete2021/SETAD1/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.1" />
+        <entry key="..\:/Users/Rosely/Desktop/Projete/SETAD_3030s_Projete2021/SETAD1/app/src/main/res/drawable/side_nav_bar.xml" value="0.1" />
+        <entry key="..\:/Users/Rosely/Desktop/Projete/SETAD_3030s_Projete2021/SETAD1/app/src/main/res/layout-land/activity_menu_de_trabalh.xml" value="0.1" />
+        <entry key="..\:/Users/Rosely/Desktop/Projete/SETAD_3030s_Projete2021/SETAD1/app/src/main/res/layout/activity_app_bar.xml" value="0.22" />
+        <entry key="..\:/Users/Rosely/Desktop/Projete/SETAD_3030s_Projete2021/SETAD1/app/src/main/res/layout/activity_configuracoes.xml" value="0.18" />
+        <entry key="..\:/Users/Rosely/Desktop/Projete/SETAD_3030s_Projete2021/SETAD1/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Users/Rosely/Desktop/Projete/SETAD_3030s_Projete2021/SETAD1/app/src/main/res/layout/activity_menu_de_trabalho.xml" value="0.17" />
+        <entry key="..\:/Users/Rosely/Desktop/Projete/SETAD_3030s_Projete2021/SETAD1/app/src/main/res/layout/activity_projetos.xml" value="0.1" />
+        <entry key="..\:/Users/Rosely/Desktop/Projete/SETAD_3030s_Projete2021/SETAD1/app/src/main/res/layout/activity_sobre.xml" value="0.33" />
+        <entry key="..\:/Users/Rosely/Desktop/Projete/SETAD_3030s_Projete2021/SETAD1/app/src/main/res/layout/app_bar_app_bar.xml" value="0.12" />
+        <entry key="..\:/Users/Rosely/Desktop/Projete/SETAD_3030s_Projete2021/SETAD1/app/src/main/res/layout/app_bar_menu_de_trabalho.xml" value="0.1" />
+        <entry key="..\:/Users/Rosely/Desktop/Projete/SETAD_3030s_Projete2021/SETAD1/app/src/main/res/layout/content_app_bar.xml" value="0.18" />
+        <entry key="..\:/Users/Rosely/Desktop/Projete/SETAD_3030s_Projete2021/SETAD1/app/src/main/res/layout/fragment_gallery.xml" value="0.15" />
+        <entry key="..\:/Users/Rosely/Desktop/Projete/SETAD_3030s_Projete2021/SETAD1/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/Rosely/Desktop/Projete/SETAD_3030s_Projete2021/SETAD1/app/src/main/res/layout/fragment_slideshow.xml" value="0.18" />
+        <entry key="..\:/Users/Rosely/Desktop/Projete/SETAD_3030s_Projete2021/SETAD1/app/src/main/res/layout/main_nav_drawer.xml" value="0.18" />
+        <entry key="..\:/Users/Rosely/Desktop/Projete/SETAD_3030s_Projete2021/SETAD1/app/src/main/res/layout/menu_de_trabalho_toolbar.xml" value="0.1" />
+        <entry key="..\:/Users/Rosely/Desktop/Projete/SETAD_3030s_Projete2021/SETAD1/app/src/main/res/layout/nav_header_app_bar.xml" value="0.22" />
+        <entry key="..\:/Users/Rosely/Desktop/Projete/SETAD_3030s_Projete2021/SETAD1/app/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
+        <entry key="..\:/Users/Rosely/Desktop/Projete/SETAD_3030s_Projete2021/SETAD1/app/src/main/res/menu/app_bar.xml" value="0.33" />
+        <entry key="..\:/Users/Rosely/Desktop/SETAD1/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/Rosely/Desktop/SETAD1/app/src/main/res/layout/activity_configuracoes.xml" value="0.19701086956521738" />
+        <entry key="..\:/Users/Rosely/Desktop/SETAD1/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Rosely/Desktop/SETAD1/app/src/main/res/layout/activity_menu_de_trabalho.xml" value="0.19701086956521738" />
+        <entry key="..\:/Users/Rosely/Desktop/SETAD1/app/src/main/res/layout/activity_projetos.xml" value="0.19701086956521738" />
+        <entry key="..\:/Users/Rosely/Desktop/SETAD1/app/src/main/res/layout/activity_sobre.xml" value="0.19701086956521738" />
+        <entry key="..\:/Users/tulio/Marco/SETAD1/app/src/main/res/layout/activity_menu_de_trabalho.xml" value="0.33" />
+        <entry key="..\:/Users/tulio/Marco/SETAD1/app/src/main/res/layout/activity_sobre.xml" value="0.33" />
+        <entry key="..\:/Users/tulio/Marco/SETAD1/app/src/main/res/layout/drag.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/tulio/Marco/SETAD1/app/src/main/res/layout/main_nav_drawer.xml" value="0.1" />
+        <entry key="..\:/Users/tulio/Marco/SETAD1/app/src/main/res/layout/menu_de_trabalho_toolbar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/tulio/Marco/SETAD1/app/src/main/res/mipmap-anydpi-v26/capacitor.xml" value="0.1125" />
+        <entry key="..\:/Users/tulio/Projete/SETAD_3030s_Projete2021/SETAD1/app/src/main/res/layout/activity_configuracoes.xml" value="0.1" />
+        <entry key="..\:/Users/tulio/Projete/SETAD_3030s_Projete2021/SETAD1/app/src/main/res/layout/activity_main.xml" value="0.14" />
+        <entry key="..\:/Users/tulio/Projete/SETAD_3030s_Projete2021/SETAD1/app/src/main/res/layout/activity_menu_de_trabalho.xml" value="0.1" />
+        <entry key="..\:/Users/tulio/Projete/SETAD_3030s_Projete2021/SETAD1/app/src/main/res/layout/activity_projetos.xml" value="0.1" />
+        <entry key="..\:/Users/tulio/Projete/SETAD_3030s_Projete2021/SETAD1/app/src/main/res/layout/activity_sobre.xml" value="0.1" />
+        <entry key="..\:/Users/tulio/SETAD1/app/src/main/res/drawable/side_nav_bar.xml" value="0.1125" />
+        <entry key="..\:/Users/tulio/SETAD1/app/src/main/res/layout-land/activity_menu_de_trabalh.xml" value="0.1" />
+        <entry key="..\:/Users/tulio/SETAD1/app/src/main/res/layout/activity_configuracoes.xml" value="0.1" />
+        <entry key="..\:/Users/tulio/SETAD1/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/tulio/SETAD1/app/src/main/res/layout/activity_menu_de_trabalho.xml" value="0.25" />
+        <entry key="..\:/Users/tulio/SETAD1/app/src/main/res/layout/activity_projetos.xml" value="0.1" />
+        <entry key="..\:/Users/tulio/SETAD1/app/src/main/res/layout/activity_sobre.xml" value="0.22" />
+        <entry key="..\:/Users/tulio/SETAD1/app/src/main/res/layout/drag.xml" value="0.1526268115942029" />
+        <entry key="..\:/Users/tulio/SETAD1/app/src/main/res/layout/main_nav_drawer.xml" value="0.22" />
+        <entry key="..\:/Users/tulio/SETAD1/app/src/main/res/layout/menu_de_trabalho_toolbar.xml" value="0.22" />
+        <entry key="..\:/Users/tulio/SETAD_3030s_Projete2021/SETAD1/app/src/main/res/layout-land/activity_menu_de_trabalho.xml" value="0.1728395061728395" />
+        <entry key="..\:/Users/tulio/SETAD_3030s_Projete2021/SETAD1/app/src/main/res/layout-land/trabalho.xml" value="0.1728395061728395" />
+        <entry key="..\:/Users/tulio/SETAD_3030s_Projete2021/SETAD1/app/src/main/res/layout/activity_configuracoes.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/tulio/SETAD_3030s_Projete2021/SETAD1/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/tulio/SETAD_3030s_Projete2021/SETAD1/app/src/main/res/layout/activity_menu_de_trabalh.xml" value="0.1" />
+        <entry key="..\:/Users/tulio/SETAD_3030s_Projete2021/SETAD1/app/src/main/res/layout/activity_menu_de_trabalho.xml" value="0.15" />
+        <entry key="..\:/Users/tulio/SETAD_3030s_Projete2021/SETAD1/app/src/main/res/layout/activity_sobre.xml" value="0.44246031746031744" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.18" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

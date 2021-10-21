@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00FFFFFF"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_margin="16dp"
+        android:onClick="ClickLogo"
+        android:src="@drawable/led" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Componentes"
+        android:textAlignment="center"
+        android:textColor="#636363"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        android:background="#636363" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:onClick="Addresistor"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="195dp"
+            android:layout_height="match_parent"
+            app:srcCompat="@drawable/wiree" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="102dp"
+            android:layout_marginEnd="48dp"
+            android:clickable="true"
+            android:src="@drawable/vccc" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:onClick="Addcapacitor"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="152dp"
+            android:layout_height="102dp"
+            android:layout_marginEnd="48dp"
+            android:clickable="true"
+            android:src="@drawable/ledc" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="102dp"
+            android:layout_marginEnd="48dp"
+            android:clickable="true"
+            android:onClick="Adddiodo"
+            android:src="@drawable/diodo" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="396dp"
+        android:layout_height="102dp"
+        android:layout_marginEnd="48dp"
+        android:gravity="center_vertical"
+        android:onClick="Addledc"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="102dp"
+            android:layout_marginEnd="48dp"
+            android:clickable="true"
+            android:src="@drawable/vccc" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="102dp"
+            android:layout_marginEnd="48dp"
+            android:clickable="true"
+            android:src="@drawable/gnd" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="102dp"
+            android:layout_marginEnd="48dp"
+            android:clickable="true"
+            android:onClick="Addcapacitor"
+            android:src="@drawable/capacitor" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:onClick="Addgnd"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="140dp"
+            android:layout_height="match_parent"
+            app:srcCompat="@drawable/wired" />
+
+        <ImageView
+            android:id="@+id/resistor"
+            android:layout_width="wrap_content"
+            android:layout_height="102dp"
+            android:layout_marginEnd="48dp"
+            android:background="@drawable/resistor"
+            android:clickable="true"
+            android:onClick="Addresistor" />
+    </LinearLayout>
+
+</LinearLayout>

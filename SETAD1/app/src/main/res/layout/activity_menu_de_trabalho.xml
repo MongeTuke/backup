@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:screenOrientation="landscape"
+    android:visibility="visible"
+    android:id="@+id/drawer_layout"
+    tools:context=".menuDeTrabalho"
+    tools:visibility="visible">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <include layout="@layout/menu_de_trabalho_toolbar" />
+
+        <RelativeLayout
+            android:id="@+id/view_root"
+            android:layout_width="match_parent"
+            android:layout_height="593dp">
+
+            <Button
+                android:id="@+id/botaofonte"
+                android:layout_width="75dp"
+                android:layout_height="30dp"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="18dp"
+                android:background="#00796B"
+                android:text="Fonte"
+                android:textSize="8dp" />
+
+            <Button
+                android:id="@+id/botaoresistor"
+                android:layout_width="75dp"
+                android:layout_height="31dp"
+                android:layout_marginTop="40dp"
+                android:layout_marginEnd="18dp"
+                android:background="#00796B"
+                android:text="Resistor"
+                android:textSize="8dp" />
+
+            <Button
+                android:id="@+id/botaotrilha"
+                android:layout_width="75dp"
+                android:layout_height="30dp"
+                android:layout_marginTop="75dp"
+                android:layout_marginEnd="18dp"
+                android:background="#00796B"
+                android:text="Trilha V"
+                android:textSize="8dp" />
+
+            <Button
+                android:id="@+id/botaotrilhad"
+                android:layout_width="75dp"
+                android:layout_height="30dp"
+                android:layout_marginTop="110dp"
+                android:layout_marginEnd="18dp"
+                android:background="#00796B"
+                android:text="Trilha H"
+                android:textSize="8dp" />
+
+        </RelativeLayout>
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_width="300dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:background="@android:color/white">
+
+        <include layout="@layout/main_nav_drawer" />
+
+    </RelativeLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/botaoVoltar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="60dp"
+            android:layout_marginEnd="18dp"
+            android:background="#00796B"
+            android:text="@string/voltarMenu"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+</androidx.drawerlayout.widget.DrawerLayout>

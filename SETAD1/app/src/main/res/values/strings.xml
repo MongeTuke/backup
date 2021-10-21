@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SETAD1</string>
+    <string name="setad">SETAD</string>
+    <string name="sobre">Sobre</string>
+    <string name="sair">Sair</string>
+    <string name="configuracoes">Configurações</string>
+    <string name="menuDeTrabalho">Menu de Trabalho</string>
+    <string name="projetos">Projetos</string>
+    <string name="todo">TODO</string>
+    <string name="voltarConfig">Voltar</string>
+    <string name="voltarMenu">Voltar</string>
+    <string name="voltarProjetos">Voltar</string>
+    <string name="voltarSobre">Voltar</string>
+    <string name="o_aplicativo_setad_foi_criado_com_o_objetivo_de_facilitar_o_estudo_dos_alunos_de_eletr_nica_b_sica_e_eletricidade_atrav_s_de_um_interface_intuitiva_os_estudantes_podem_simular_circuitos_b_sicos_dessas_mat_rias_tudo_pelo_seus_pr_prios_celulares_dessa_forma_a_aplica_o_facilita_e_torna_mais_inclusiva_a_experi_ncia_das_tarefas_pr_ticas">O aplicativo SETAD foi criado com o objetivo de facilitar o estudo dos alunos de eletrônica básica e eletricidade. Através de um interface intuitiva os estudantes podem simular circuitos básicos dessas matérias tudo pelo seus próprios celulares. Dessa forma, a aplicação facilita e torna mais inclusiva a experiência das tarefas práticas.</string>
+    <string name="o_projeto_foi_desenvolvido_pela_equipe_jo_o_vitor_lima_da_silveira_marco_ant_nio_pereira_alves_fonseca_t_lio_henrique_gon_alves_sim_es_virg_nia_let_cia_afonso">O projeto foi desenvolvido pela equipe: João Vitor Lima da Silveira ; Marco Antônio Pereira Alves Fonseca; Túlio Henrique Gonçalves Simões; Virgínia Letícia Afonso.</string>
+    <string name="como_um_trabalho_para_a_escola_t_cnica_de_eletr_nica_no_ano_de_2021">Como um trabalho para a Escola Técnica de Eletrônica, no ano de 2021.</string>
+    <string name="title_activity_app_bar">App_bar</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="comps">COMPONENTES</string>
+    <string name="COMPONENTES">COMPONENTES</string>
+    <string name="menu_de_trabalho">Menu de Trabalho</string>
+    <string name="menudetrabalho_titulo">Menu de Trabalho</string>
+</resources>
